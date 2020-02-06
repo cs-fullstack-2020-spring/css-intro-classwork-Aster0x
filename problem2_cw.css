@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(90, 87, 87);
+    margin-right: 10%;
+    color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.secondparagraph {
+    background-color: royalblue;
+    align-self: auto;
+    text-align: center;
+}
+
+h3 {
+    block-size: 500px, 100px;
+    padding: 10px;
+    border: dashed 3px;
+}
