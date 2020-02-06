@@ -1,4 +1,5 @@
 # CSS Intro to Selectors and Box Model
+#### Nice Job! Score : 4
 
 ### Exercise 1:
 
@@ -29,6 +30,7 @@ height = 100px
 padding = 10px
 dashed border = 3px
 And a setting that will keep the text horizontally centered on the page as the screen is resized
+
 
 ### Challenge:
 
